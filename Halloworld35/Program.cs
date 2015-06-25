@@ -10,7 +10,8 @@ namespace Halloworld35
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo world!");
-
+            Console.WriteLine("Hallo world!");
+            
             Console.ReadLine();
         }
     }
