@@ -10,6 +10,7 @@ namespace Halloworld35
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo world!");
+            // TODO: Lav en bedre udskrift!
             Console.WriteLine("Hallo world!");
             
             Console.ReadLine();
