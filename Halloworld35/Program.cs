@@ -13,6 +13,10 @@ namespace Halloworld35
             // TODO: Lav en bedre udskrift!
             Console.WriteLine("Hallo world!");
             
+            int x = 10;
+            string query = "SELECT TOP " + x.ToString() + " FROM Table";
+
+            
             Console.ReadLine();
         }
     }
